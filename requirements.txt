@@ -1,0 +1,6 @@
+asyncio
+json
+discord
+mutagen
+gtts
+discord[voice]

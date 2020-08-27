@@ -12,7 +12,7 @@ from gtts import gTTS
 from discord.ext import commands
 from discord.voice_client import VoiceClient
 
-TOKEN = "NzQ3NTk3MTM1MDE2NDkzMzg3.X0RMFg.ED0TeeRlW_LGzXKybt4NV7mjo_4"
+TOKEN = "NzQ3NTk3MTM1MDE2NDkzMzg3.X0RMFg.um6yCeMKhXr91LPLWBvVZ-5XxiA"
 
 bot = commands.Bot(command_prefix = 'sci ')
 
