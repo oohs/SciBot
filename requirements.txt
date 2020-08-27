@@ -4,3 +4,6 @@ mutagen
 gtts
 discord[voice]
 PyNaCl
+discord.voice_client
+git+https://github.com/Rapptz/discord.py
+ffmpeg
