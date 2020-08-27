@@ -3,3 +3,4 @@ discord
 mutagen
 gtts
 discord[voice]
+PyNaCl
